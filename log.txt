@@ -1,0 +1,12 @@
+
+${Date.now()}:${req.ip} $freq-method}: $freq-path
+
+${Date.now()}:${req.ip} $freq-method}: $freq-path
+
+${Date.now()}:${req.ip} $freq-method}: $freq-path
+
+${Date.now()}:${req.ip} $freq-method}: $freq-path
+
+${Date.now()}:${req.ip} $freq-method}: $freq-path
+
+${Date.now()}:${req.ip} $freq-method}: $freq-path
