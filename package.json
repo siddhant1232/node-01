@@ -1,0 +1,19 @@
+{
+  "name": "project-1",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "siddhant",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "local-devices": "^4.0.0",
+    "mongoose": "^8.10.2",
+    "nodemon": "^3.1.9"
+  }
+}

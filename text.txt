@@ -1,0 +1,3 @@
+schema - define structure
+  schema - model
+  usign models for crud operations
